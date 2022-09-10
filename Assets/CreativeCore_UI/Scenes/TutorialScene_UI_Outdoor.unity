@@ -4619,7 +4619,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: O parque
+  m_Text: O Menu
 --- !u!222 &1545347213
 CanvasRenderer:
   m_ObjectHideFlags: 0
